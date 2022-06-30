@@ -3,10 +3,10 @@
     "16490384482dbd99cf": {
       "type": "banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/home_page_banner.jpg",
+        "image": "shopify:\/\/shop_images\/Three-dogs-cute-pets_3840x2160_e7bb0859-e059-4c76-8585-deffa00483ba.jpg",
         "video_id": "qPf2EA_Ieeo",
-        "heading": "<p>No middleman.<br\/>No price games.<br\/>Huge savings.<\/p>",
-        "heading_size": "h1",
+        "heading": "<p>Pets are not our whole life but they make our lives whole<\/p>",
+        "heading_size": "h3",
         "text": "",
         "button_label": "SHOP PET PRESCRIPTIONS",
         "button_link": "shopify:\/\/collections\/all",
@@ -18,20 +18,11 @@
     "1652742560da5a5df4": {
       "type": "hero",
       "blocks": {
-        "16527425609378dfb3-0": {
-          "type": "hero_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard.jpg",
-            "heading": "Cat shop",
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/cats"
-          }
-        },
         "16527425609378dfb3-1": {
           "type": "hero_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_Copy_4.jpg",
-            "heading": "Dog shop",
+            "image": "shopify:\/\/shop_images\/71qV3F_828L._AC_SL1000.jpg",
+            "heading": "ACCESSORIES",
             "button_label": "SHOP NOW",
             "button_link": "shopify:\/\/collections\/dogs"
           }
@@ -39,17 +30,26 @@
         "16527425609378dfb3-2": {
           "type": "hero_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_Copy_5.jpg",
-            "heading": "Horse Shop",
+            "image": "shopify:\/\/shop_images\/not-only-humans-got-ta.jpg",
+            "heading": "TOYS",
             "button_label": "SHOP NOW",
             "button_link": "shopify:\/\/collections\/horses"
+          }
+        },
+        "16527425609378dfb3-0": {
+          "type": "hero_item",
+          "disabled": true,
+          "settings": {
+            "heading": "Cat shop",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/cats"
           }
         }
       },
       "block_order": [
-        "16527425609378dfb3-0",
         "16527425609378dfb3-1",
-        "16527425609378dfb3-2"
+        "16527425609378dfb3-2",
+        "16527425609378dfb3-0"
       ],
       "settings": {
       }
@@ -59,8 +59,8 @@
       "blocks": {
         "1652680485ef574f60-0": {
           "type": "scroller_item",
+          "disabled": true,
           "settings": {
-            "icon": "shopify:\/\/shop_images\/Artboard_0308d052-9620-4795-869f-c052825f6de0.png",
             "heading": "Every Day Low Prices on Pet Meds",
             "content": "<p>This is a small description about pricing.<\/p>",
             "button_label": "",
@@ -69,8 +69,8 @@
         },
         "1652680485ef574f60-1": {
           "type": "scroller_item",
+          "disabled": true,
           "settings": {
-            "icon": "shopify:\/\/shop_images\/Artboard_Copy_76485bd0-9d30-498d-89d4-0dd82f94fcfc.png",
             "heading": "100% Satisfaction Guarantee",
             "content": "<p>We guarantee that we will deliver to you…<\/p>",
             "button_label": "",
@@ -79,8 +79,8 @@
         },
         "1652680485ef574f60-2": {
           "type": "scroller_item",
+          "disabled": true,
           "settings": {
-            "icon": "shopify:\/\/shop_images\/Artboard_Copy_2_6cbc8313-bea2-4135-85ae-9b3594971232.png",
             "heading": "Free Shipping on all orders",
             "content": "<p>All prescription orders will have free shipping.<\/p>",
             "button_label": "",
@@ -89,8 +89,8 @@
         },
         "1652680485ef574f60-3": {
           "type": "scroller_item",
+          "disabled": true,
           "settings": {
-            "icon": "shopify:\/\/shop_images\/Artboard_Copy_3_daa30d64-c745-49d7-9adc-99b165e2c484.png",
             "heading": "Fully Licensed Pharmacy",
             "content": "<p>We are a fully licensed pharmacy.<\/p>",
             "button_label": "",
@@ -105,7 +105,6 @@
         "1652680485ef574f60-3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sroller.jpg",
         "subheading": "IT'S SIMPLE",
         "heading": "Why choose PillDrop Pets",
         "content": "<p>We will inform you once we have received your prescriptions. We will inform you once we have received your prescriptions.<\/p>"
@@ -155,15 +154,11 @@
       "type": "icons-with-image",
       "settings": {
         "heading": "How it works",
-        "image": "shopify:\/\/shop_images\/dog.jpg",
         "heading_size": "h2",
-        "image1": "shopify:\/\/shop_images\/Artboard_e714124e-35da-4abc-b224-b844f91964f6.png",
         "heading1": "Shop for the product you need",
         "text1": "<p>Place your order via our shop. <\/p>",
-        "image2": "shopify:\/\/shop_images\/Artboard_Copy_6.png",
         "heading2": "Send your prescription to  PillDrop, there are 2 ways how:",
         "text2": "<p>Ask your vet to send the prescription directly to PillDrop:<br\/>Email: <a href=\"mailto:delivery@pilldrop.co.nz\" title=\"mailto:delivery@pilldrop.co.nz\">delivery@pilldrop.co.nz<\/a>  <br\/>Fax: <a href=\"tel:09 276 9292\" title=\"tel:09 276 9292\">09 276 9292<\/a><\/p><p><em>or<\/em> Post the prescription to:<br\/>PO Box: 62283, Sylvia Park, Auckland<\/p>",
-        "image3": "shopify:\/\/shop_images\/Artboard_Copy_7.png",
         "heading3": "Delivered",
         "text3": "<p>Your pet medications will be delivered straight to your door anywhere you are in New Zealand.<\/p>"
       }
@@ -171,7 +166,6 @@
     "1652752504e0ced0e0": {
       "type": "background-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/woof.jpg",
         "heading": "PillDrop Pets. Your new way of pharmacy.",
         "heading_size": "h2",
         "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
